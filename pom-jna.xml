@@ -4,14 +4,14 @@
   http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>net.java.dev.jna</groupId>
+  <groupId>com.github.kunkun26</groupId>
   <artifactId>jna</artifactId>
-  <version>4.5.0</version>
+  <version>4.5.1</version>
   <packaging>jar</packaging>
 
   <name>Java Native Access</name>
   <description>Java Native Access</description>
-  <url>https://github.com/java-native-access/jna</url>
+  <url>https://github.com/kunkun26/jna</url>
 
   <licenses>
       <license>
@@ -27,25 +27,17 @@
   </licenses>
 
   <scm>
-    <connection>scm:git:https://github.com/java-native-access/jna</connection>
-    <developerConnection>scm:git:ssh://git@github.com/java-native-access/jna.git</developerConnection>
-    <url>https://github.com/java-native-access/jna</url>
+    <connection>scm:git:https://github.com/kunkun26/jna</connection>
+    <developerConnection>scm:git:ssh://git@github.com/kunkun26/jna.git</developerConnection>
+    <url>https://github.com/kunkun26/jna</url>
   </scm>
 
   <developers>
     <developer>
-      <id>twall</id>
-      <name>Timothy Wall</name>
+      <id>kunkun26</id>
+      <name>Kensuke Kobayashi</name>
       <roles>
         <role>Owner</role>
-      </roles>
-    </developer>
-    <developer>
-      <email>mblaesing@doppel-helix.eu</email>
-      <name>Matthias Bläsing</name>
-      <url>https://github.com/matthiasblaesing/</url>
-      <roles>
-        <role>Developer</role>
       </roles>
     </developer>
   </developers>
